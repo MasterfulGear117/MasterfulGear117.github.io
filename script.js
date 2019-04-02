@@ -13,7 +13,7 @@ var randomColor = function() {
 	}
 	return "#" + random
 }
-
+//!!!
 function randomGradient() {
 
 	var randomColors = [randomColor(), randomColor()]
